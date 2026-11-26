@@ -1,0 +1,5 @@
+Upstream: https://github.com/Graphify-Labs/graphify
+Revision: 02c27dc246cd7bc359d0f4acaf53a3fce595bc1e
+Source snapshot; upstream automation, unsupported entries, and restricted enterprise code where applicable excluded. Original licences retained. Commercial reuse requires licence audit.
+Copied files: 1296
+Excluded files: 5
